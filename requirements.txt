@@ -1,4 +1,5 @@
-#run in PowerShell 
 streamlit
+pillow
 google-generativeai
-python-dotenv
+dotenv
+ipython

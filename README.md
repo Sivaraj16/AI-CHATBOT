@@ -53,9 +53,6 @@ streamlit run app.py
 4. Click the "Ask the question" button to receive a response from the Gemini model.
 5. The response will be displayed in the application, with longer responses streamed in chunks.
 
-## Contributing
-Refer to > https://github.com/imSanko/AI-Image-Recogniton-Chatbot/blob/main/CONTRIBUTION.md
----
 
 ## Deployment
 
